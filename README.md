@@ -35,7 +35,7 @@ while True:
     conn.close()
 ```
 
-### server.py
+### client.py
 ```python 
 import socket
 s = socket.socket()
